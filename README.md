@@ -33,7 +33,7 @@
 <img width="10%" src="https://iconape.com/wp-content/files/cf/353046/png/next-js-logo.png">
 <img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
-</code>
+<img src="https://assets.stickpng.com/images/62c536ab3a321dd181302f81.png" alt="Redux full logo" itemprop="contentUrl"></code>
 
 ## database
 <code>
@@ -43,7 +43,7 @@
 
 ## others
 <div>
-<img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
+<img alt="C" src="https:///badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
 <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">  
 </div>
 
