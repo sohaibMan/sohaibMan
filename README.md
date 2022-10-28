@@ -27,12 +27,12 @@
 <img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
 <img width="10%" src="https://iconape.com/wp-content/files/cf/353046/png/next-js-logo.png">
 <img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
-<img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
 
 
 </code>
