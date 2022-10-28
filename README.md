@@ -21,7 +21,7 @@
   
   
 ##web development
-</br>
+<div>
 <img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
@@ -32,14 +32,17 @@
 <img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
-
+</div>
 ###database
+<div>
 </br>
 <img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+</div>
 ##others
-</br>
+<div>
+
 <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
 <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">  
-</br>
+</div>
 
