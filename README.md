@@ -33,7 +33,7 @@
 <img width="10%" src="https://iconape.com/wp-content/files/cf/353046/png/next-js-logo.png">
 <img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
-<img width="10%" src="https://assets.stickpng.com/images/62c536ab3a321dd181302f81.png" >
+
 
 </code>
 
