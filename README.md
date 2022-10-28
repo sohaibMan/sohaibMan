@@ -18,22 +18,22 @@
  ### 👨‍💻 Programming and markup languages
 
 
-  <img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a>
   
   
-  
-<code><a href="https://github.com/search?q=user%3Aabhishek-0713+language%3Ajava"><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code> 
-<code><a href="https://github.com/search?q=user%3Aabhishek-0713+language%3Ajavascript"><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
-<code><a href="https://github.com/search?q=user%3Aabhishek-0713+language%3Ajavascript"><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
-<code><a href="https://github.com/search?q=user%3Aabhishek-0713+language%3Acss"><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
-<code><a href="https://github.com/search?q=user%3Aabhishek-0713+language%3Ahtml"><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
-<code><a href="https://github.com/search?q=user%3Aabhishek-0713+language%3Abash"><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></a></code>
-<code><a href="https://github.com/search?q=user%3Aabhishek-0713+language%3Asql"><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
+##web development
+<img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+<img width="10%" src="https://iconape.com/wp-content/files/cf/353046/png/next-js-logo.png">
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+###database
+<img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
 
- <code><a href="https://github.com/search?q=user%3Aabhishek-0713+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a></code>
-<code><a href="https://github.com/search?q=user%3Aabhishek-0713+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a></code>
+##others
+<img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
+<img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
+
 
 
   
