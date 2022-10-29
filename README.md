@@ -58,6 +58,6 @@
 
 <blockquote >
 Any application that can be written in JavaScript, will eventually be written in JavaScript.
-
+</br>
  <figcaption>--JEFF ATWOOD</figcaption>
 </blockquote>
