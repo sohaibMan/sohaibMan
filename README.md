@@ -33,6 +33,8 @@
 <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
 <img width="10%" src="https://iconape.com/wp-content/files/cf/353046/png/next-js-logo.png">
 <img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
 
 
 </code>
@@ -49,3 +51,7 @@
 <img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">  
 </div>
 
+
+## 📮 Connected me :
+ 
+<code><a href="https://linkedin.com/in/manahsohaib"><img width="10%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code> 
