@@ -55,3 +55,9 @@
 ## 📮 Connected me :
  
 <code><a href="https://linkedin.com/in/manahsohaib"><img width="10%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code> 
+
+<blockquote >
+Any application that can be written in JavaScript, will eventually be written in JavaScript.
+
+ <figcaption>--JEFF ATWOOD</figcaption>
+</blockquote>
