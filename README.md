@@ -26,7 +26,7 @@
   
 ## web development
 
-
+<code>
 <img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg">
@@ -39,7 +39,7 @@
 <img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
-
+</code>
 
 ## database
 <code>
