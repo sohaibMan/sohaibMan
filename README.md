@@ -63,3 +63,12 @@ Any application that can be written in JavaScript, will eventually be written in
 </br>
  <figcaption>--JEFF ATWOOD</figcaption>
 </blockquote>
+<h2>:fire: My Stats :</h2>
+<br>
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=sohaibMan&theme=dark&hide_border=true&border_radius=8" />
+</p>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibMan)](https://github.com/anuraghazra/github-readme-stats)
+ -->
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohaibMan&show_icons=true&locale=en" alt="sohaibMan" /></p>
