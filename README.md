@@ -73,9 +73,9 @@ Any application that can be written in JavaScript, will eventually be written in
  -->
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohaibMan&show_icons=true&locale=en" alt="sohaibMan" />
  </p>
-
+<p align="center">
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohaibMan&theme=github_dark" alt="sohaib manah" />
-
+</p>
 
 
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2>
