@@ -72,3 +72,22 @@ Any application that can be written in JavaScript, will eventually be written in
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibMan)](https://github.com/anuraghazra/github-readme-stats)
  -->
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohaibMan&show_icons=true&locale=en" alt="sohaibMan" /></p>
+
+![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohaibMan&theme=github_dark) 
+
+
+
+
+<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2>
+
+<p align="center">
+    
+<a href="https://github.com/sohaibMan/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=sohaibMan">
+</a>
+    <a href="https://github.com/sohaibMan?tab=followers">
+        <img src="https://img.shields.io/github/followers/sohaibMan?label=Followers&style=social" alt="GitHub Badge">
+    </a>
+</p>
+
+<p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: sohaibMan Visitor's Count" /></p> 
