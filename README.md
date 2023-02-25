@@ -89,5 +89,4 @@ Any application that can be written in JavaScript, will eventually be written in
         <img src="https://img.shields.io/github/followers/sohaibMan?label=Followers&style=social" alt="GitHub Badge">
     </a>
 </p>
-
-<p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: sohaibMan Visitor's Count" /></p> 
+ 
