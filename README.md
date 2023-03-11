@@ -17,45 +17,20 @@
 
 
 
- ### Skills : 
 
 
-
-
-  
-  
-## web development
-
-<code>
-<img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
-<img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
-<img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"/>
-<img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"/>
-<img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"/>
-<img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"/>
-<img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"/>
-<img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"/>
-<img width="10%" src="https://iconape.com/wp-content/files/cf/353046/png/next-js-logo.png"/>
-<img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"/>
-<img width="10%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"/>
-<img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/>
-</code>
-
-## databases
-<code>
-<img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"/>
-<img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"/>
-</code>
-
-## others
-<div>
-<img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"/>
-<img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"/>  
-</div>
-
-
+### check my web site  
+```link
+https://sohaibmanah.netlify.app/
+```
+```link
+https://developer.itgeeks.social/
+```
+```link
+https://developer.bougeonsensemble.social/
+```
 ## 📮 Connected me :
- 
+
 <code><a href="https://linkedin.com/in/manahsohaib"><img width="10%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code> 
 
 <blockquote >
