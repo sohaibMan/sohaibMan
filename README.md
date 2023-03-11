@@ -23,12 +23,7 @@
 ```link
 https://sohaibmanah.netlify.app/
 ```
-```link
-https://developer.itgeeks.social/
-```
-```link
-https://developer.bougeonsensemble.social/
-```
+
 ## 📮 Connected me :
 
 <code><a href="https://linkedin.com/in/manahsohaib"><img width="10%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code> 
