@@ -13,6 +13,8 @@
 
 - 💬 I would love to collabroate with you in a project.
 
+- 💻 I run linux and I love OpenSource.
+
 
 
 
