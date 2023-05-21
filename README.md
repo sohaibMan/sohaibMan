@@ -29,7 +29,7 @@ https://sohaibmanah.netlify.app/
 
 You're welcome to contribute 
 
-#### ITgeeks
+#### IT geeks
 ```link
 https://github.com/orgs/ItGeeks-fstt/
 ```
