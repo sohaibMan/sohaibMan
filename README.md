@@ -2,30 +2,30 @@
 
 ### Hi 👋, I am SOHAIB MANAH 
 <p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=700&height=51&lines=Front+end+developer;Mongodb+developer;Computer+Science+Student+at+FSTT+LSI." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=700&height=51&lines=Computer+Science+Student;Full+stack+dev;MERN + NextJs and much more" alt="sohaib manah skills " /></a>
 </p>
 
 
 
-- 🌱 I’m currently Preparing for Mongodb Developer Certification.
+- 🌱 I’m currently learning Rust and DS + PS
 
-- 💞️ I’m looking for an Intership next summer.
+- 💞️ I love what I do, and I do what I love
 
-- 💬 I would love to collabroate with you in a project.
+- 💬 I am looking for open-source projects to contribute in
 
-- 💻 I run linux and I love OpenSource.
-
-
+- 💻 I run Linux and I love open-source.
 
 
 
 
 
-### check my web site  
+
+
+### Here is my portfolio 
 ```link
 https://sohaibmanah.netlify.app/
 ```
-### Contribute in one of my organisations 
+### Contribute to one of my organizations 
 
 You're welcome to contribute 
 
