@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning Rust and DS + PS
+- 🌱 I’m currently freelancing on Upwork and Fiverr
 
 - 💞️ I love what I do, and I do what I love
 
@@ -21,21 +21,18 @@
 
 
 
+
 ### Here is my portfolio 
 ```link
 https://sohaibmanah.netlify.app/
 ```
-### Contribute to one of my organizations 
-
-You're welcome to contribute 
-
-#### IT geeks
-```link
-https://github.com/orgs/ItGeeks-fstt/
+### Fiverr account 
+``` link
+https://www.fiverr.com/sohaibesohaib?public_mode=true
 ```
-### Bougouns Ensemble 
-```link
-https://github.com/orgs/Bougeons-ensemble/
+### Upwork account
+```
+https://www.upwork.com/freelancers/~010a44723a9108a1bc
 ```
 
 ## 📮 Connected me :
