@@ -28,7 +28,7 @@ https://sohaibmanah.netlify.app/
 ```
 ### Fiverr account 
 ``` link
-https://www.fiverr.com/sohaibesohaib?public_mode=true
+https://www.fiverr.com/sohaibesohaib
 ```
 ### Upwork account
 ```
