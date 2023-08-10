@@ -2,7 +2,7 @@
 
 ### Hi 👋, I am SOHAIB MANAH 
 <p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=700&height=51&lines=Computer+Science+Student;Full+stack+dev;MERN + NextJs and much more" alt="sohaib manah skills " /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=700&height=51&lines=Software+Enginner;Full+stack+developer;" alt="sohaib manah skills " /></a>
 </p>
 
 
