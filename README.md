@@ -37,7 +37,6 @@ https://www.upwork.com/freelancers/~010a44723a9108a1bc
 
 ## 📮 Connected me :
 
-<code><a href="https://linkedin.com/in/manahsohaib"><img width="10%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code> 
 
 
 <h2>:fire: My Stats :</h2>
