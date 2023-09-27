@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently freelancing on Upwork and Fiverr
+- 🌱 I’m currently learning oracle database and spring boot
 
 - 💞️ I love what I do, and I do what I love
 
@@ -26,14 +26,7 @@
 ```link
 https://sohaibmanah.netlify.app/
 ```
-### Fiverr account 
-``` link
-https://www.fiverr.com/sohaibesohaib
-```
-### Upwork account
-```
-https://www.upwork.com/freelancers/~010a44723a9108a1bc
-```
+
 
 ## 📮 Connected me :
 
