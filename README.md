@@ -28,7 +28,6 @@ https://sohaibmanah.netlify.app/
 ```
 
 
-## 📮 Connected me :
 
 
 
