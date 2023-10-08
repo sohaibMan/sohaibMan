@@ -7,7 +7,6 @@
 
 
 
-- 🌱 I’m currently learning oracle database and spring boot
 
 - 💞️ I love what I do, and I do what I love
 
