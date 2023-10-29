@@ -12,7 +12,7 @@
 
 - 💬 I am looking for open-source projects to contribute in
 
-- 💻 I run Linux and I love open-source. I don't use Arch btw , I use Nano because I don't remember to exit Vim, Sorry Vscode
+- 💻 I run Linux and I love open-source. I don't use Arch btw, I use Nano because I don't remember to exit Vim, Sorry Vscode
 
 
 
