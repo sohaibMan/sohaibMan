@@ -27,7 +27,7 @@ https://sohaibmanah.netlify.app/
 
 
 
-<h2>:fire: My Stats :</h2>
+<h2>fire: My Stats :</h2>
 <br>
 
 <p align="center">
