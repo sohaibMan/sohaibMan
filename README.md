@@ -23,6 +23,14 @@
 https://sohaibmanah.netlify.app/
 ```
 
+### Hire me  
+```link
+https://www.fiverr.com/users/sohaibesohaib/
+```
+```link
+https://www.upwork.com/freelancers/~016a250ea317ab3bbf
+```
+
 
 
 
