@@ -5,12 +5,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=700&height=51&lines=Software+Enginner;DevOps+Enginner;" alt="sohaib manah skills " /></a>
 </p>
 
-- I love what I do, and I do what I love
-
-- 💬 I am looking for open-source projects to contribute in
-
-- 💻 I run Linux and I love open-source. I don't use Arch btw, but I use Nano because I don't remember how to exit Vim, sorry Vscode you're not my favorite 
-
+💙 I love what I do, and I do what I love.
+🌱 Currently seeking internship to sprinkle some code magic on! ✨
+🖥️ I'm a Linux enthusiast (but no, I don't use Arch, btw).
+🤦‍♂️ Still stuck in Nano because I forgot how to exit Vim (and I’m too proud to Google it again).
+💔 Sorry, VS Code, you're not "the one."
 
 
 
@@ -23,7 +22,7 @@
 https://sohaibmanah.netlify.app/
 ```
 
-### Hire me  
+### Got a Project? Let's Make It Happen! 🚀
 ```link
 https://www.fiverr.com/users/sohaibesohaib/
 ```
